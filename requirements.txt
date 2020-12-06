@@ -32,7 +32,6 @@ colorama==0.4.4
 coverage==5.3
 croniter==0.3.36
 cryptography==3.2.1
--e git+https://github.com/aics-int/cvapipe_analysis.git@0b3765230dc598bd99e7d58f6be8c5bbc3d6bf0d#egg=cvapipe_analysis
 cycler==0.10.0
 dask==2.30.0
 dask-jobqueue==0.7.1
